@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="progress_bar_bg">@color/grag_by</drawable>
+    <drawable name="sr_primary">@color/orange_ll</drawable>
+    <drawable name="transparent">@android:color/transparent</drawable>
+
+</resources>
